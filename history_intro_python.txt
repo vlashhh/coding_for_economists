@@ -1,0 +1,10 @@
+    1  python
+    2  git status
+    3  git add "main.py"
+    4  git add main.py
+    5  git commit -m "Coded solution to string slicing exercise eeee"
+    6  git status
+    7  git add main.py
+    8  git commit -m "Coded solution to string slicing exercise eeee"
+    9  history
+   10  history > history_intro_python.txt
