@@ -1,0 +1,19 @@
+    1  mv main.py 03_python_lists.py
+    2  git add 03_python_lists.py 
+    3  git commit -m "Added lists"
+    4  git config --global user.email "shatl440@gmail.com"
+    5  git config --global user.name "vlashhh"
+    6  git commit -m "Added lists"
+    7  git push
+    8  touch main.py
+    9  touch --help
+   10  mv main.py 04_python_dictionaries.py
+   11  git add 04_python_dictionaries.py 
+   12  git commit -m "Dictionaries"
+   13  git push
+   14  touch main.py
+   15  mv main.py 05_python_sets.py
+   16  git add 05_python_sets.py 
+   17  git commit -m "sets"
+   18  git push
+   19  history > 01_history_python.txt
